@@ -1,0 +1,5 @@
+/target
+*.log
+
+# Demo scripts are local only; only .github/assets/demo.gif is committed.
+/demo/
